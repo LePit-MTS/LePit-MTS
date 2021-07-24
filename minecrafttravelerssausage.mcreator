@@ -1,0 +1,184 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MTSBLOCK",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mtsblock"
+    },
+    {
+      "name": "MTSITEMS",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mtsitems"
+    },
+    {
+      "name": "MTSFOOD",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mtsfood"
+    },
+    {
+      "name": "MTSTOOL",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mtstool"
+    },
+    {
+      "name": "Sausage",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sausage"
+    },
+    {
+      "name": "Sausagecraft",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sausagecraft"
+    },
+    {
+      "name": "Goldensausage",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldensausage"
+    },
+    {
+      "name": "Goldensausagecraft",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldensausagecraft"
+    },
+    {
+      "name": "Holysausage",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holysausage"
+    },
+    {
+      "name": "Holysausagecraft",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holysausagecraft"
+    },
+    {
+      "name": "Goldensausageeffect",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldensausageeffect",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Holysausageeffect",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holysausageeffect",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Katana",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "katana"
+    },
+    {
+      "name": "Katanacraft",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "katanacraft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.minecrafttravelerssausage.sausage": "Sausage",
+      "item.minecrafttravelerssausage.holysausage": "Holy sausage",
+      "itemGroup.tabmtsblock": "M.T.S Block",
+      "itemGroup.tabmtsfood": "M.T.S Food",
+      "item.minecrafttravelerssausage.goldensausage": "Golden sausage",
+      "item.minecrafttravelerssausage.katana": "Katana",
+      "itemGroup.tabmtsitems": "M.T.S Items",
+      "itemGroup.tabmtstool": "M.T.S TOOL"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minecrafttravelerssausage",
+    "modName": "M.T.S",
+    "version": "1.16.5",
+    "author": "adamm, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.minecrafttravelerssausage",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

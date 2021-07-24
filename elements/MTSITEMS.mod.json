@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "M.T.S Items",
+    "icon": {
+      "value": "Items.STICK"
+    },
+    "showSearch": false
+  }
+}
